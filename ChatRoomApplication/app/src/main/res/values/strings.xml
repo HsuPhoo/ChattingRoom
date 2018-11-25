@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatRoomApplication</string>
+
+    <string name="lbl_add_photo">ဓါတ်ပုံ</string>
+    <string name="btn_add_news">Publish</string>
+    <string name="screen_title_add_news">Call Buyer</string>
+    <string name="rdo1">၂၄ နာရီ</string>
+    <string name="rdo2">၄၈ နာရီ</string>
+    <string name="rdo3">၇၂ နာရီ</string>
+    <string name="customer_code">Enter Your Password</string>
+    <string name="logout">ထွက်ရန်</string>
+    <string name="history">မှတ်တမ်း</string>
+    <string name="pending">ဆိုင်းငံ့ထားဆဲ</string>
+
+</resources>
